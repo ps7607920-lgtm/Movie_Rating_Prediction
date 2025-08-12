@@ -18,7 +18,7 @@ A machine learning project that predicts IMDb movie ratings based on **Genre**, 
 
 🌐 Deployed on Hugging Face Spaces** for easy online access.
 
-🔗 Hugging Face Spaces Project Link : 
+🔗 Hugging Face Spaces Project Link : https://huggingface.co/spaces/PriyaSinghlgtm/Movie_Rating_Prediction
 
 ---
 
@@ -45,9 +45,6 @@ movie-rating-prediction/
 ├── README.md # Project info
 
 └── .gitignore # Ignore temp files
-
----
-
 
 ---
 
